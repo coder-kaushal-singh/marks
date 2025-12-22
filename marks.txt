@@ -2,4 +2,5 @@ my english marks in calls 10th=54
 my hindi marks in class 10th=64
 my math marks in class 10th=73
 my science marks class in 10th=67
+my social marks class in 10th=52
 
