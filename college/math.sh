@@ -1,1 +1,0 @@
-my math marks in class 12th=73
